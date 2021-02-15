@@ -1,0 +1,14 @@
+*.swp
+
+# Dependency directory
+node_modules
+
+# build directory
+build/
+artifacts/
+cache/
+
+# lol macs
+.DS_Store
+package-lock.json
+refernce/
